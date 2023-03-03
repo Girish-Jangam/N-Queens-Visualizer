@@ -12,4 +12,4 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
-**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
+**<p align='center'>You can find the website live <a href="https://n-queens-visualiser.000webhostapp.com/">here</a></p>**
